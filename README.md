@@ -1,10 +1,10 @@
-# Trial_respository
-This is a trial respository.
-https://s.amsu.ng/KNam60prAZRN
-Ananya Pawar
-Tejas Shinde
-https://s.amsu.ng/TjQAS1wmTufN
-Kalpana Yadav
-Sidhya Jain
-https://s.amsu.ng/QbgdQVytW6ZN
-https://drive.google.com/file/d/17bC_Bmfc8XZ77VU-iCMshNsHoCn3FhNk/view?usp=drivesdk
+# We-Help-Others-WHO
+
+
+1)Ananya Pawar
+2)Tejas Shinde
+
+3)Kalpana Yadav
+4)Sidhya Jain
+
+
